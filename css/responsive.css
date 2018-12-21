@@ -63,4 +63,7 @@
   #navbar {
     display:none;
   }
+  .menuicon {
+    display:block;
+  }
 }
