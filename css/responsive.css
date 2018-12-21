@@ -59,10 +59,9 @@
   }
 }
 
-@media (max-width:700) {
+@media (max-width:700px) {
   #navbar {
     background-color:red;
-    
     display:none;
   }
 }
