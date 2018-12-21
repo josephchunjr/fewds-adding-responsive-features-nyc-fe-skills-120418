@@ -63,7 +63,7 @@
   #navbar {
     display:none;
   }
-  .menu-icon {
-    display:block;
+#navbar nav a.menu-icon {
+  display:block;
   }
 }
