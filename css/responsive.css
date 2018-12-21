@@ -60,7 +60,7 @@
 }
 
 @media (max-width:700) {
-  div.wrapper {
+  #navbar {
     background-color:red;
     overflow:hidden;
   }
