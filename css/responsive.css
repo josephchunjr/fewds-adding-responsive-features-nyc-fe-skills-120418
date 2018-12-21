@@ -60,7 +60,7 @@
 }
 
 @media (max-width:700) {
-  nav {
+  div#nav-bar {
     overflow:hidden;
   }
 }
